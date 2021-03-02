@@ -1,4 +1,4 @@
-//@author Subham
+@author Subham
 /* here i have mentioned that how to print cube root of any number by using Math class*/
 import java.util.Scanner;
 public class CubeRoot{
